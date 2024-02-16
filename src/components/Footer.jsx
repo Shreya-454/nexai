@@ -27,10 +27,10 @@ const Footer = () => {
             <div className="flex flex-wrap flex-row">
               <div className="sm:w-1/2 w-full flex lg:justify-end max-sm:mb-[30px]">
                 <ul>
-                  <li className="font-recharge text-white sm:text-lg text-base  font-bold sm:leading-[21.6px] mb-5">
+                  <li className="font-recharge text-white sm:text-lg text-base  font-bold sm:leading-[21.6px] md:mb-5 mb-2.5">
                     Quick links
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100 opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px]"
@@ -38,7 +38,7 @@ const Footer = () => {
                       Home
                     </a>
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100 sm:text-base font-bold sm:leading-[19.2px]"
@@ -46,7 +46,7 @@ const Footer = () => {
                       Features
                     </a>
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
@@ -54,7 +54,7 @@ const Footer = () => {
                       Marketplace
                     </a>
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
@@ -62,7 +62,7 @@ const Footer = () => {
                       Tokens
                     </a>
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
@@ -82,10 +82,10 @@ const Footer = () => {
               </div>
               <div className="sm:w-1/2 w-full flex lg:justify-end">
                 <ul>
-                <li className="font-recharge text-white sm:text-lg text-base  font-bold sm:leading-[21.6px] mb-5">
+                <li className="font-recharge text-white sm:text-lg text-base  font-bold sm:leading-[21.6px] md:mb-5 mb-2.5">
                 Information's
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
@@ -93,7 +93,7 @@ const Footer = () => {
                       Contact
                     </a>
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
@@ -101,7 +101,7 @@ const Footer = () => {
                       Phone
                     </a>
                   </li>
-                  <li className="mb-5">
+                  <li className="md:mb-5 mb-2.5">
                     <a
                       href=""
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"

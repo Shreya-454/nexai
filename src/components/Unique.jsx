@@ -3,7 +3,7 @@ import { Clock1, Clock2, Msg, Wire } from "./Icons";
 const Unique = () => {
   return (
     <div className=" lg:pt-[120px] pt-10 md:pb-10 pb-5 lg:pb-20  max-xl:px-6">
-      <div className="max-w-[1340px] mx-auto border border-solid  border-[#FCFCFC] bg-[url(./assets/images/services.webp)] bg-center bg-no-repeat bg-cover  lg:px-[100px] px-6 lg:pt-20 md:pt-10 pt-5 rounded-[32px]" data-aos="zoom-in-up">
+      <div className="max-w-[1340px] mx-auto border border-solid  overflow-hidden border-[#FCFCFC] bg-[url(./assets/images/services.webp)] bg-center bg-no-repeat bg-cover  lg:px-[100px] px-3 lg:pt-20 md:pt-10 pt-5 rounded-[32px]" data-aos="zoom-in-up">
         <h2 className=" text-white text-center font-recharge md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] font-bold mb-4">
           Unique features
         </h2>
@@ -58,7 +58,7 @@ const Unique = () => {
               <h4 className=" font-recharge text-[#0B0A0A] md:text-xl sm:text-lg text-base md:leading-[32px]  font-bold mt-[30px]">
                 Intelligent Contextual Awareness
               </h4>
-              <p className="text-[#0B0A0A] opacity-70 font-poppins text-base leading-[25.6px] font-normal pb-11">
+              <p className="text-[#0B0A0A] opacity-70 font-poppins sm:text-base text-sm sm:leading-[25.6px] font-normal pb-11">
                 {" "}
                 Nexai utilizes the hardware sensors placed throughout your home
                 to understand your location and deliver relevant information or
