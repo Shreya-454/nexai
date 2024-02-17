@@ -32,7 +32,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100 opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px]"
                     >
                       Home
@@ -40,7 +40,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100 sm:text-base font-bold sm:leading-[19.2px]"
                     >
                       Features
@@ -48,7 +48,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Marketplace
@@ -56,7 +56,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Tokens
@@ -64,7 +64,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       NexChat
@@ -72,7 +72,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       About
@@ -87,7 +87,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Contact
@@ -95,7 +95,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Phone
@@ -103,7 +103,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       terms
@@ -111,7 +111,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href=""
+                      href="#"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Privacy
