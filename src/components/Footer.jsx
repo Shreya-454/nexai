@@ -12,13 +12,13 @@ const Footer = () => {
               platea. Ullamcorper.
             </p>
             <div className="flex gap-3 mt-5">
-              <a href="https://www.facebook.com/" className="hover:scale-110 duration-300">
+              <a href="https://www.facebook.com/" target="blank"   className="hover:scale-110 duration-300">
                 <Facebook />
               </a>
-              <a href="https://twitter.com/" className="hover:scale-110 duration-300">
+              <a href="https://twitter.com/" target="blank"  className="hover:scale-110 duration-300">
                 <Twitter />
               </a>
-              <a href="https://telegram.org/" className="hover:scale-110 duration-300">
+              <a href="https://telegram.org/" target="blank" className="hover:scale-110 duration-300">
                 <Telegram />
               </a>
             </div>

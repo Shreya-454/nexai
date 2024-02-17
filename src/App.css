@@ -17,6 +17,9 @@
   z-index: 1;
 }
 
+*{
+  scroll-behavior: smooth;
+}
 
 .blockchain .slick-list::after {
   content: ' ';
