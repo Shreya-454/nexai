@@ -4,7 +4,7 @@ import gradient from '../assets/images/gradient.webp'
 const Header = () => {
   return (
     <>
-      <div className="flex-grow flex justify-center items-center relative">
+      <div className="flex-grow flex justify-center items-center relative" >
         <div className="container max-w-[1140px] pl-4 mx-auto">
           <h1 className="lg:text-6xl   md:text-[55px] sm:text-5xl text-[40px] font-recharge lg:leading-[75.6px] font-bold text-white max-w-[578px]" data-aos="fade-right">
             {" "}

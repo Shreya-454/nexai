@@ -107,7 +107,7 @@ const Blockchain = () => {
           {mycards}
         </Slider>
       </div>
-      <div className="w-[302px] h-[262px] blur-[190px] absolute z-[1] rounded-full top-[12%] left-[-15%] bg-[#02CDCF] hidden lg:block"></div>
+      <div className="w-[302px] h-[262px] blur-[190px] absolute z-[1] rounded-full top-[36%] left-[-15%] bg-[#02CDCF] hidden lg:block"></div>
       <div className="w-[302px] h-[262px] blur-[170px] absolute z-[1] rounded-full top-[10%] right-[-15%] bg-[#02CDCF] hidden lg:block"></div>
       <img src={w1} alt="w" className="absolute right-0 top-[-3%]" />
     </div>

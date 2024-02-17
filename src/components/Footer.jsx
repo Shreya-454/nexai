@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
           <div className="md:w-1/2 w-full max-lg:px-3">
             <div className="flex flex-wrap flex-row">
-              <div className="sm:w-1/2 w-full flex lg:justify-end max-sm:mb-[30px]">
+              <div className="w-1/2 flex lg:justify-end ">
                 <ul>
                   <li className="font-recharge text-white sm:text-lg text-base  font-bold sm:leading-[21.6px] md:mb-5 mb-2.5">
                     Quick links
@@ -80,7 +80,7 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-              <div className="sm:w-1/2 w-full flex lg:justify-end">
+              <div className="w-1/2  flex lg:justify-end">
                 <ul>
                 <li className="font-recharge text-white sm:text-lg text-base  font-bold sm:leading-[21.6px] md:mb-5 mb-2.5">
                 Information's

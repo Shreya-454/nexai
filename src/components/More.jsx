@@ -45,7 +45,7 @@ const card2 = [
   },
   {
     text: "NexAi, is the front door locked?",
-    class: "pt-[34px]",
+    class: "pt-[59px] pb-[85px]",
     pro: "!max-w-[278px]",
     aos:"fade-up"
   },
@@ -69,7 +69,7 @@ const card3 = [
   },
   {
     text: "NexAi, is the front door locked?",
-    class: "pt-[34px]",
+    class: "pt-[59px] pb-[85px]",
     pro: "!max-w-[278px]",
     aos:"fade-up"
   },
@@ -214,7 +214,7 @@ const More = () => {
     
   };
   return (
-    <div className=" overflow-x-clip relative lg:pb-20 lg:pt-[100px] md:py-10 py-5">
+    <div className=" overflow-x-clip relative lg:pb-20 lg:pt-[100px] md:py-10 py-5" id="more">
       <div className="max-w-[1140px] mx-auto px-3">
         <h2 className="md:text-[40px] sm:text-4xl text-3xl font-recharge text-[#02CDCF] text-center md:leading-[50.4px] font-bold mb-4" data-aos="zoom-in-down">
           NexAi does all this. And more.

@@ -3,7 +3,7 @@ import ai from '../assets/images/ai.webp'
 import Button from "./Button";
 const What = () => {
   return (
-    <div className="lg:py-20 md:py-10 py-5  max-xl:px-6">
+    <div className="lg:py-20 md:py-10 py-5  max-xl:px-6" id="what">
       <div className="max-w-[1340px] md:px-[100px] sm:px-6 px-3 mx-auto  border border-solid overflow-hidden lg:py-[163px] md:pb-20 sm:pb-10 relative pb-5 border-[#FCFCFC] rounded-3xl bg-[url(./assets/images/whatimg.webp)] bg-cover bg-center bg-no-repeat" data-aos="zoom-in-up">
           <div className="flex flex-wrap lg:flex-row flex-col-reverse">
             <div className="lg:w-1/2 w-full">

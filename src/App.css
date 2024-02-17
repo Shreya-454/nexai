@@ -7,13 +7,7 @@
 .font-recharge{
   font-family: 'recharge';
 }
-@font-face {
-  font-family: 'neuropolitical';
-  src: url(./assets/fonts/neuropolitical\ rg.otf);
-}
-.font-nuero{
-  font-family: 'neuropolitical';
-}
+
 ::-webkit-scrollbar{
   display: none;
 }

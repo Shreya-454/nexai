@@ -19,11 +19,11 @@ const Nav = () => {
                   <div className='hidden md:block'></div>
                   <ul className={`flex gap-5 mobileView  ${ show ? "right-[-100%]" : "right-0"
               }`}>
-                      <li><a href=""  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>Home</a></li>
-                      <li><a href=""  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>Marketplace</a></li>
-                      <li><a href=""  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>About</a></li>
-                      <li><a href=""  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>NexChat</a></li>
-                      <li><a href=""  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>Tokens</a></li>
+                      <li onClick={nav}><a href=""  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>Home</a></li>
+                      <li onClick={nav}><a href="#uni"  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>Marketplace</a></li>
+                      <li onClick={nav}><a href="#what"  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>About</a></li>
+                      <li onClick={nav}><a href="#more"  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>NexChat</a></li>
+                      <li onClick={nav}><a href="#token"  className=' font-poppins navhover hover:text-[#02CDCF] font-normal text-base text-white'>Tokens</a></li>
                   </ul>
                   <Button text="Sign Up" />
                   
