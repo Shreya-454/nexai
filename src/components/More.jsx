@@ -78,11 +78,11 @@ const More = () => {
   const cards1 = card1.map((card1, i) => (
     <div
       key={i}
-      className={`${card1.class} max-w-[340px] w-full group h-[220px] rounded-2xl bg-[#FFFFFF05] shadow-[0px_4px_20px_0px_#02CDCF29] flex justify-center items-center`}
+      className={`${card1.class} max-w-[340px] w-full group duration-300 h-[220px] rounded-2xl bg-[#FFFFFF05] shadow-[0px_4px_20px_0px_#02CDCF29] flex justify-center items-center`}
       data-aos={card1.aos}
     >
       <p
-        className={`text-white ${card1.pro} group-hover:text-[#02CDCF] font-recharge sm:text-2xl text-lg sm:leading-[38.4px] text-center max-w-[254px] mx-auto py-auto`}
+        className={`text-white ${card1.pro} group-hover:text-[#02CDCF] duration-300 font-recharge sm:text-2xl text-lg sm:leading-[38.4px] text-center max-w-[254px] mx-auto py-auto`}
       >
         {card1.text}
       </p>
@@ -91,10 +91,10 @@ const More = () => {
   const cards2 = card2.map((card2, r) => (
     <div
       key={r}
-      className={`${card2.class} max-w-[340px] w-full h-[220px] group rounded-2xl bg-[#FFFFFF05] shadow-[0px_4px_20px_0px_#02CDCF29] flex justify-center items-center`}
+      className={`${card2.class} max-w-[340px] w-full h-[220px] group duration-300 rounded-2xl bg-[#FFFFFF05] shadow-[0px_4px_20px_0px_#02CDCF29] flex justify-center items-center`}
     data-aos={card2.aos}>
       <p
-        className={`text-white ${card2.pro} font-recharge group-hover:text-[#02CDCF] sm:text-2xl text-lg sm:leading-[38.4px] text-center max-w-[254px] mx-auto py-auto`}
+        className={`text-white ${card2.pro} font-recharge group-hover:text-[#02CDCF] duration-300 sm:text-2xl text-lg sm:leading-[38.4px] text-center max-w-[254px] mx-auto py-auto`}
       >
         {card2.text}
       </p>
@@ -103,10 +103,10 @@ const More = () => {
   const cards3 = card3.map((card3, k) => (
     <div
       key={k} data-aos={card3.aos}
-      className={`${card3.class} max-w-[340px] w-full h-[220px] group rounded-2xl bg-[#FFFFFF05] shadow-[0px_4px_20px_0px_#02CDCF29] flex justify-center items-center`}
+      className={`${card3.class} max-w-[340px] w-full h-[220px] group duration-300 rounded-2xl bg-[#FFFFFF05] shadow-[0px_4px_20px_0px_#02CDCF29] flex justify-center items-center`}
     >
       <p
-        className={`text-white ${card3.pro} font-recharge group-hover:text-[#02CDCF] sm:text-2xl text-lg sm:leading-[38.4px] text-center max-w-[254px] mx-auto py-auto`}
+        className={`text-white ${card3.pro} font-recharge group-hover:text-[#02CDCF] duration-300 sm:text-2xl text-lg sm:leading-[38.4px] text-center max-w-[254px] mx-auto py-auto`}
       >
         {card3.text}
       </p>

@@ -32,7 +32,7 @@ const Blockchain = () => {
   const mycards = mycard.map((mycard, e) => (
     <div
       key={e}
-      className={`${mycard.class} max-w-[327px] min-h-[367px] group pt-[70px]  w-full bg-[url(./assets/images/Polygon.webp)] bg-full bg-center bg-no-repeat`}
+      className={`${mycard.class} max-w-[327px] min-h-[367px] group duration-300 pt-[70px]  w-full bg-[url(./assets/images/Polygon.webp)] bg-full bg-center bg-no-repeat`}
       data-aos={mycard.aos}
     >
       <div className="flex justify-center">
@@ -45,7 +45,7 @@ const Blockchain = () => {
           </span>
         </div>
       </div>
-      <p className="text-white sm:text-xl text-base font-recharge font-bold group-hover:text-[#02CDCF] sm:leading-[32px] text-center max-w-[212px] mx-auto pt-[30px]">
+      <p className="text-white sm:text-xl text-base font-recharge font-bold group-hover:text-[#02CDCF] duration-300 sm:leading-[32px] text-center max-w-[212px] mx-auto pt-[30px]">
         {mycard.text}
       </p>
     </div>
