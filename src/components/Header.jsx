@@ -11,7 +11,7 @@ const Header = () => {
             <span className="text-[#02CDCF]">Nexai</span> is an advanced
             AI-powered home assistant
           </h1>
-          <p className=" font-poppins  sm:text-base text-sm font-normal text-white md:pt-4 pt-3" data-aos="fade-right">
+          <p className=" font-poppins !opacity-70 sm:text-base text-sm font-normal text-white md:pt-4 pt-3" data-aos="fade-right">
             Etiam viverra nec libero a. A id id tempus molestie sed. Fringilla
             odio.
           </p>
