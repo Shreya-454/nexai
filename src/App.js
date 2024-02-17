@@ -39,7 +39,7 @@ function App() {
     ) : (
     <div className="bg-[#040404] overflow-x-clip">
       <div className="lg:px-[30px] mx-auto xl:pt-2">
-        <div className=" bg-[url(./assets/images/hero.gif)] xl:bg-full bg-cover bg-center bg-no-repeat flex flex-col  min-h-screen">
+        <div className=" bg-[url(./assets/images/hero.gif)] xl:bg-full bg-cover bg-center bg-no-repeat flex flex-col  lg:h-[745px] ">
           <Nav />
           <Header />
         </div>
