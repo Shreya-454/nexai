@@ -12,6 +12,7 @@ import Token from "./components/Token";
 import Unique from "./components/Unique";
 import What from "./components/What";
 import Preloader from "./components/Preloader";
+import bg from './assets/images/hero.webp'
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -39,7 +40,7 @@ function App() {
     ) : (
     <div className="bg-[#040404] overflow-x-clip">
       <div className="lg:px-[30px] mx-auto ">
-        <div className=" bg-[url(./assets/images/hero.gif)] xl:bg-full bg-cover bg-center bg-no-repeat flex flex-col  lg:h-[745px] ">
+        <div className=" bg-[url(./assets/images/hero.webp)] xl:bg-full bg-cover bg-center bg-no-repeat flex flex-col  lg:h-[745px] ">
           <Nav />
           <Header />
         </div>
