@@ -20,7 +20,7 @@ const Header = () => {
             text="Know More"
           />
         </div>
-        <img src={gradient} alt="gr" className="absolute bottom-[-1%] left-0 right-0" />
+        <img src={gradient} alt="gr" className="absolute bottom-[-5%] left-0 right-0" />
       </div>
     </>
   );
