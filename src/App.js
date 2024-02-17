@@ -40,7 +40,7 @@ function App() {
     ) : (
     <div className="bg-[#040404] overflow-x-clip">
       <div className="lg:px-[30px] mx-auto ">
-        <div className=" bg-[url(./assets/images/hero.webp)] xl:bg-full bg-cover bg-center bg-no-repeat flex flex-col  lg:h-[745px] ">
+        <div className=" bg-[url(./assets/images/hero.webp)] xl:bg-full bg-cover bg-left md:bg-center bg-no-repeat flex flex-col  lg:h-[745px] ">
           <Nav />
           <Header />
         </div>
