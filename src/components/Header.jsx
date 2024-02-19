@@ -23,6 +23,8 @@ const Header = () => {
         </div>
         <img src={gradient} alt="gr" className="absolute bottom-[-5%] left-0 right-0" />
         <img src={logo} alt="logo" className="absolute xl:right-[14.3%] xl:top-[37.5%] hidden xl:block"/>
+        <div className="w-[262px] h-[262px] bg-[#02CDCF] absolute rounded-full top-0 left-[-7%] blur-[200px] hidden sm:block"></div>
+      <div className="w-[262px] h-[262px] bg-[#02CDCF] absolute rounded-full top-[35%]  right-[7%] blur-[150px] hidden lg:block"></div>
       </div>
     </>
   );

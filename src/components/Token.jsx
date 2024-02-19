@@ -96,7 +96,7 @@ const Token = () => {
                   and loyalty.
                 </p>
               </div>
-              <div className="h-full w-2 bg-[#02CDCF] rounded-[15px] absolute lg:left-[3.6%] max-[600px]:left-[3.2%] max-[530px]:left-[3.5%] max-[500px]:left-[4.2%] max-[420px]:left-[4.8%] md:left-[22.2px] left-[3.2%]  top-0"></div>
+              <div className="h-full w-2 bg-[#02CDCF] rounded-[15px] absolute lg:left-[3.6%] max-[600px]:left-[3.2%] max-[550px]:left-[4%]  max-[530px]:left-[3.7%] max-[500px]:left-[4.2%] max-[384px]:left-[5.3%] max-[420px]:left-[4.8%] md:left-[22.2px] left-[3.2%]  top-0"></div>
             </div>
           </div>
         </div>
