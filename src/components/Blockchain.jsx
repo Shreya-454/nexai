@@ -88,7 +88,7 @@ const Blockchain = () => {
           Blockchain & AI technology
         </h2>
         <p
-          className="text-white opacity-70 font-poppins sm:text-base text-sm font-normal leading-[25.6px] text-center max-w-[997px] mx-auto lg:mb-24 md:mb-[60px] mb-[30px]"
+          className="text-white !opacity-70 font-poppins sm:text-base text-sm font-normal leading-[25.6px] text-center max-w-[997px] mx-auto lg:mb-24 md:mb-[60px] mb-[30px]"
           data-aos="zoom-in"
         >
           Nexai is an advanced home assistant that will revolutionize the way we

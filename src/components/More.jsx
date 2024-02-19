@@ -219,7 +219,7 @@ const More = () => {
         <h2 className="md:text-[40px] sm:text-4xl text-3xl font-recharge text-[#02CDCF] text-center md:leading-[50.4px] font-bold mb-4" data-aos="zoom-in-down">
           NexAi does all this. And more.
         </h2>
-        <p className="text-white opacity-70 font-poppins font-normal sm:text-base text-sm sm:leading-[25.6px] text-center max-w-[912px] mx-auto lg:mb-[90px] md:mb-[60px] mb-[30px]" data-aos="fade-left">
+        <p className="text-white !opacity-70 font-poppins font-normal sm:text-base text-sm sm:leading-[25.6px] text-center max-w-[912px] mx-auto lg:mb-[90px] md:mb-[60px] mb-[30px]" data-aos="fade-left">
           Nexai is an advanced home assistant that will revolutionize the way we
           interact with our smart devices at home. Powered by sophisticated
           artificial intelligence, it leverages blockchain technology to offer a

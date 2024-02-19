@@ -14,17 +14,17 @@ const Ai = () => {
             <h2 className=" font-recharge md:text-[40px] sm:text-4xl text-3xl font-bold text-[#02CDCF] leading-[50.4px] mb-4 max-lg:text-center" data-aos="fade-left">
               Ai-Powered Home Assistant
             </h2>
-            <p className="font-poppins sm:text-base text-sm text-white sm:leading-[25.6px] opacity-70 font-normal max-lg:text-center lg:max-w-[517px] mb-[6px]" data-aos="fade-left">
+            <p className="font-poppins sm:text-base text-sm text-white sm:leading-[25.6px] !opacity-70 font-normal max-lg:text-center lg:max-w-[517px] mb-[6px]" data-aos="fade-left">
               Nexai is an advanced AI-powered home assistant that brings the
               future to your fingertips. With its ability to engage in natural,
               fluent conversations in over 15 languages,
             </p>
-            <p className="font-poppins sm:text-base text-sm text-white sm:leading-[25.6px] opacity-70 font-normal max-lg:text-center lg:max-w-[517px] mb-[6px]" data-aos="fade-left">
+            <p className="font-poppins sm:text-base text-sm text-white sm:leading-[25.6px] !opacity-70 font-normal max-lg:text-center lg:max-w-[517px] mb-[6px]" data-aos="fade-left">
               Nexai offers an incredibly futuristic experience. It can take the
               initiative to ask about your day, schedule meetings, provide
               timely reminders
             </p>
-            <p className="font-poppins sm:text-base text-sm text-white sm:leading-[25.6px] opacity-70 font-normal max-lg:text-center lg:max-w-[517px]" data-aos="fade-left">
+            <p className="font-poppins sm:text-base text-sm text-white sm:leading-[25.6px] !opacity-70 font-normal max-lg:text-center lg:max-w-[517px]" data-aos="fade-left">
               assist with cooking by suggesting ingredients, track your fitness
               and nutrition goals, and even handle bill payments.
             </p>
