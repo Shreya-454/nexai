@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
       <div className="flex-grow flex justify-center items-center relative max-lg:py-[100px]" >
-        <div className="container max-w-[1140px]  mx-auto">
+        <div className="container max-w-[1140px]  mx-auto max-md:px-3">
           <h1 className="lg:text-6xl   md:text-[55px] sm:text-5xl text-[40px] leading-[1.2] font-recharge lg:leading-[75.6px] font-bold text-white max-w-[578px]" data-aos="fade-right">
             {" "}
             <span className="text-[#02CDCF]">Nexai</span> is an advanced
