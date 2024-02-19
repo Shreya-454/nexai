@@ -104,7 +104,6 @@ const Token = () => {
       <div className="w-[228px] h-[228px] bg-[#02CDCF] blur-[200px] absolute left-[-10%] top-[-5%] hidden md:block"></div>
       <img src={w3} alt="w" className="absolute top-[-4%] right-0" />
       <div className="w-[228px] h-[228px] bg-[#02CDCF] blur-[170px] absolute right-[-10%] top-[43%] hidden lg:block"></div>
-      <div className=""></div>
     </div>
   );
 };
