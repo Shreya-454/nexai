@@ -12,7 +12,6 @@ import Token from "./components/Token";
 import Unique from "./components/Unique";
 import What from "./components/What";
 import Preloader from "./components/Preloader";
-import bg from './assets/images/hero.webp'
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -53,7 +52,7 @@ function App() {
       <Token />
       <Ready />
       <Footer />
-      <BackToTop/>
+      <BackToTop />
       </div>
     )}
     </div>

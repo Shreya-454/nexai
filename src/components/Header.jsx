@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "./Button";
 import gradient from '../assets/images/gradient.webp'
+import logo from '../assets/images/logo.webp'
 const Header = () => {
   return (
     <>
@@ -21,6 +22,7 @@ const Header = () => {
           />
         </div>
         <img src={gradient} alt="gr" className="absolute bottom-[-5%] left-0 right-0" />
+        <img src={logo} alt="logo" className="absolute xl:right-[14%] xl:top-[37.5%] hidden xl:block"/>
       </div>
     </>
   );
