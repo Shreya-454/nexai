@@ -7,8 +7,8 @@ const Ai = () => {
       <div className="max-w-[1246px] mx-auto px-3 ">
         <div className="flex flex-wrap flex-row -mx-3">
           <div className="lg:w-1/2 w-full px-3 relative max-lg:mb-10 flex max-lg:justify-center ">
-            <img src={ai} alt="ai" className="w-full" data-aos="zoom-in-right" />
-            <div className="w-[231px] h-[231px] bg-[#02CDCF] blur-[154px]  top-[30%] left-[30%] hidden md:block absolute  mix-blend-lighten  rounded-full"></div>
+            <img src={ai} alt="ai" className="" data-aos="zoom-in-right" />
+            <div className="w-[231px] h-[231px] bg-[#02CDCF] blur-[100px]  top-[30%] left-[30%] hidden md:block absolute  mix-blend-lighten  rounded-full"></div>
           </div>
           <div className="lg:w-1/2 w-full px-3" >
             <h2 className=" font-recharge md:text-[40px] sm:text-4xl text-3xl font-bold text-[#02CDCF] leading-[50.4px] mb-4 max-lg:text-center" data-aos="fade-left">
