@@ -79,7 +79,7 @@ const Blockchain = () => {
     ],
   };
   return (
-    <div className=" blockchain overflow-x-clip lg:pb-[100px] md:py-10 py-5 lg:pt-20 relative ">
+    <div className=" blockchain overflow-x-clip  md:py-10 py-5 lg:py-20 relative ">
       <div className="max-w-[1140px] mx-auto relative">
         <h2
           className=" text-[#02CDCF] text-center md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] font-recharge mb-4 font-bold"
