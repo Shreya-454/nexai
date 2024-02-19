@@ -59,7 +59,7 @@ const Token = () => {
                 <h3 className="text-white font-recharge sm:text-2xl text-lg sm:leading-[31.2px] font-bold mb-4">
                   Participating in Governance
                 </h3>
-                <p className="font-poppins text-white sm:text-base text-sm  font-normal sm:leading-[25.6px] opacity-70 max-w-[536px]">
+                <p className="font-poppins text-white sm:text-base text-sm  font-normal sm:leading-[25.6px] opacity-70 max-w-[536px] md:mb-[60px] mb-[30px]">
                   Nex AI token holders will play a vital role in the governance
                   of the Nexai ecosystem. Through voting mechanisms, token
                   holders will have a direct say in the decision-making process.
