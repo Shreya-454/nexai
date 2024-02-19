@@ -7,11 +7,11 @@ const Unique = () => {
         <h2 className=" text-white text-center font-recharge md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] font-bold mb-4">
           Unique features
         </h2>
-        <p className=" text-white opacity-70 sm:text-base text-sm font-normal font-poppins text-center sm:leading-[25.6px] max-w-[397px] mx-auto ">
+        <p className=" text-white opacity-70 sm:text-base text-sm font-normal font-poppins text-center sm:leading-[25.6px] max-w-[397px] mx-auto  lg:pb-[60px] pb-5 ">
           ability to engage in natural, fluent conversations in over 15
           languages,
         </p>
-        <div className="flex flex-wrap flex-row -mx-3 h-[496px] lg:py-20 md:py-10 py-5 overflow-y-scroll">
+        <div className="flex flex-wrap flex-row -mx-3 h-[496px] lg:pb-20 md:pb-10 pb-5 overflow-y-scroll">
           <div className="md:w-1/2 w-full  max-lg:flex max-lg:flex-col max-lg:items-center px-3">
             <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl md:mb-[152px] mb-10">
               <Clock1 />

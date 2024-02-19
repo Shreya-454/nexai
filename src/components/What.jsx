@@ -10,14 +10,14 @@ const What = () => {
               <h2 className=" font-recharge max-lg:text-center md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] text-[#02CDCF] font-bold mb-4" data-aos="fade-right">
                 What is NexAi?
               </h2>
-              <p className=" font-poppins max-lg:text-center sm:text-base text-sm text-white opacity-70 sm:leading-[25.6px] mb-2" data-aos="fade-right">
+              <p className=" font-poppins max-lg:text-center  sm:text-base text-sm text-white !opacity-70 sm:leading-[25.6px] mb-2" data-aos="fade-right">
                 Beyond its convenience, Nexai revolutionizes the way you
                 interact with your home environment. It enhances productivity,
                 efficiency, and overall well-being. From managing your schedules
                 to transforming the way you experience smart living, Nexai opens
                 up a world of possibilities.
               </p>
-              <p className="font-poppins max-lg:text-center sm:text-base text-sm text-white opacity-70 sm:leading-[25.6px]" data-aos="fade-right">
+              <p className="font-poppins max-lg:text-center sm:text-base text-sm text-white !opacity-70 sm:leading-[25.6px]" data-aos="fade-right">
                 Nexai's software can be installed on all your smart devices,
                 including smartphones, computers, smart TVs, and kitchen
                 appliances. It acts as a centralized control hub, allowing you
