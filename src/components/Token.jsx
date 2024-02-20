@@ -70,7 +70,7 @@ const Token = () => {
               </div>
               <div className="relative">
                 <div className="w-6 h-6 bg-white rounded-full absolute lg:left-[-83px] md:left-[-33px] sm:left-[-81px] left-[-83px] max-[600px]:left-[-38px] top-[44%] z-[1] "></div>
-                <h3 className="font-recharge text-2xl text-white leading-[31.2px] font-bold mb-4">
+                <h3 className="font-recharge sm:text-2xl text-lg text-white leading-[31.2px] font-bold mb-4">
                   Peer-to-Peer Transactions
                 </h3>
                 <p className="font-poppins text-white text-base font-normal leading-[25.6px] opacity-70 max-w-[536px] md:mb-[60px] mb-[30px]">
