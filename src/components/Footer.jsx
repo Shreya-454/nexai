@@ -32,7 +32,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href="#"
+                      href="#ai"
                       className="text-white font-recharge relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:rounded-lg after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100 opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px]"
                     >
                       Home
@@ -40,7 +40,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href="#"
+                      href="#blockchain"
                       className="text-white font-recharge opacity-70 text-sm relative after:absolute after:w-0 after:h-[2px] after:rounded-lg hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100 sm:text-base font-bold sm:leading-[19.2px]"
                     >
                       Features
@@ -48,7 +48,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href="#"
+                      href="#uni"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:rounded-lg after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Marketplace
@@ -56,7 +56,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href="#"
+                      href="#token"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] relative after:rounded-lg after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       Tokens
@@ -64,7 +64,7 @@ const Footer = () => {
                   </li>
                   <li className="md:mb-5 mb-2.5">
                     <a
-                      href="#"
+                      href="#more"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] after:rounded-lg relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       NexChat
@@ -72,7 +72,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="#what"
                       className="text-white font-recharge opacity-70 text-sm sm:text-base font-bold sm:leading-[19.2px] after:rounded-lg relative after:absolute after:w-0 after:h-[2px] hover:after:absolute after:bottom-[-3px] hover:after:w-full after:left-[50%] transition-all duration-500 after:hover:left-0 after:transition-all after:duration-500 hover:after:bg-white hover:opacity-100"
                     >
                       About

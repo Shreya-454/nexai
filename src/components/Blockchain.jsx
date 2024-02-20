@@ -79,7 +79,7 @@ const Blockchain = () => {
     ],
   };
   return (
-    <div className=" blockchain overflow-x-clip  md:py-10 py-5 lg:py-20 relative ">
+    <div className=" blockchain overflow-x-clip  md:py-10 py-5 lg:py-20 relative  " id="blockchain">
       <div className="max-w-[1140px] mx-auto relative px-3">
         <h2
           className=" text-[#02CDCF] text-center md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] font-recharge mb-4 font-bold"
@@ -97,7 +97,7 @@ const Blockchain = () => {
           secure and efficient user experience.
         </p>
         <p
-          className="text-white font-recharge sm:text-xl text-base leading-[32px] text-center max-w-[684px] mx-auto font-bold mb-[60px]"
+          className="text-white font-recharge sm:text-xl text-base leading-[32px] text-center max-w-[684px] mx-auto font-bold lg:mb-[60px] md:mb-[30px] mb-5"
           data-aos="zoom-in"
         >
           By building the software on blockchain, Nexai provides the following

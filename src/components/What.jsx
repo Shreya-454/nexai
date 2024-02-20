@@ -3,10 +3,10 @@ import ai from '../assets/images/ai.webp'
 import Button from "./Button";
 const What = () => {
   return (
-    <div className="lg:py-20 md:py-10 py-5  max-xl:px-6" id="what">
+    <div className="lg:py-20 md:py-10 py-5  max-xl:px-3" id="what">
       <div className="max-w-[1340px] md:px-[100px] sm:px-6 px-3 mx-auto  border border-solid overflow-hidden lg:py-[163px] md:pb-20 sm:pb-10 relative pb-5 border-[#FCFCFC] rounded-3xl bg-[url(./assets/images/whatimg.webp)] bg-cover bg-center bg-no-repeat" data-aos="zoom-in-up">
           <div className="flex flex-wrap lg:flex-row flex-col-reverse">
-            <div className="lg:w-1/2 w-full">
+            <div className="lg:w-1/2 w-full relative z-[1]">
               <h2 className=" font-recharge max-lg:text-center md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] text-[#02CDCF] font-bold mb-4" data-aos="fade-right">
                 What is NexAi?
               </h2>
@@ -28,7 +28,7 @@ const What = () => {
               </p>
               <div className="flex max-lg:justify-center"><Button text="Learn More" class="md:!mt-10 !mt-5"/></div>
             </div>
-            <div className="lg:w-1/2 w-full flex justify-center relative">
+            <div className="lg:w-1/2 w-full flex justify-center relative ">
                 <img src={ai} alt="a" data-aos="zoom-in" />
                 <div className="w-[468px] h-[463px] rounded-full bg-[#02CDCF] absolute blur-[240px] mix-blend-lighten"></div>
             </div>

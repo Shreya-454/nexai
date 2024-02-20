@@ -2,7 +2,7 @@ import React from "react";
 import { Clock1, Clock2, Msg, Wire } from "./Icons";
 const Unique = () => {
   return (
-    <div className=" lg:pt-[120px] pt-10 md:pb-10 pb-5 lg:pb-20  max-xl:px-6" id="uni">
+    <div className=" lg:pt-[120px] pt-10 md:pb-10 pb-5 lg:pb-20  max-xl:px-3" id="uni">
       <div className="max-w-[1340px] mx-auto border border-solid  overflow-hidden border-[#FCFCFC] bg-[url(./assets/images/services.webp)] bg-center bg-no-repeat bg-cover z-[1] lg:px-[100px] px-3 lg:pt-20 md:pt-10 pt-5 rounded-[32px] relative" data-aos="zoom-in-up">
         <h2 className=" text-white text-center font-recharge md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] font-bold mb-4">
           Unique features

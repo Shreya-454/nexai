@@ -5,7 +5,7 @@ const Token = () => {
   return (
     <div className="lg:pt-20 md:pt-10 pt-5 relative" id="token">
       <div className="max-w-[1140px] mx-auto px-3 lg:pb-[124px] md:pb-10 pb-5 ">
-        <h2 data-aos="zoom-out" className="font-recharge md:text-[40px] sm:text-4xl text-3xl text-[#02CDCF] text-bold md:leading-[50.4px] text-center mb-[47px]">
+        <h2 data-aos="zoom-out" className="font-recharge md:text-[40px] sm:text-4xl text-3xl text-[#02CDCF] text-bold md:leading-[50.4px] text-center lg:mb-[47px] md:mb-5 mb-0">
           NexAI Token & utility
         </h2>
         <div className="flex flex-row flex-wrap -mx-3">

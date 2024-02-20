@@ -17,7 +17,7 @@ const Header = () => {
             odio.
           </p>
           <Button
-            class="mt-[51px]"
+            class="md:mt-[51px] mt-5"
             text="Know More"
           />
         </div>

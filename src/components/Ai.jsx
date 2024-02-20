@@ -3,10 +3,10 @@ import ai from "../assets/images/ai-powered.webp";
 import Button from "./Button";
 const Ai = () => {
   return (
-    <div className="relative lg:pt-[86px] lg:pb-[70px] md:py-10 py-5" id="ai">
+    <div className="relative lg:pt-[86px] lg:pb-[70px] md:py-10 pt-5 pb-0" id="ai">
       <div className="max-w-[1246px] mx-auto px-3 ">
         <div className="flex flex-wrap flex-row -mx-3">
-          <div className="lg:w-1/2 w-full px-3 relative max-lg:mb-10 flex max-lg:justify-center ">
+          <div className="lg:w-1/2 w-full px-3 relative max-lg:mb-10 max-sm:mb-5 flex max-lg:justify-center ">
             <img src={ai} alt="ai" className="" data-aos="zoom-in-right" />
             <div className="w-[231px] h-[231px] bg-[#02CDCF] blur-[100px]  top-[30%] left-[30%] hidden md:block absolute  mix-blend-lighten  rounded-full"></div>
           </div>
