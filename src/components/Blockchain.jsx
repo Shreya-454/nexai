@@ -7,24 +7,24 @@ const mycard = [
   {
     num: 1,
     text: "Security and Privacy",
-    aos:"fade-down"
+    aos: "fade-down",
   },
   {
     num: 2,
     text: "Transparent and Reliable Data Management",
     class: "!translate-y-20",
-    aos:"fade-up"
+    aos: "fade-up",
   },
   {
     num: 3,
     text: "Self-learning and Personalization",
-    aos:"fade-down"
+    aos: "fade-down",
   },
   {
     num: 4,
     text: "Automated and Transparent Transactions",
     class: "!translate-y-20",
-    aos:"fade-up"
+    aos: "fade-up",
   },
 ];
 const Blockchain = () => {
@@ -78,7 +78,10 @@ const Blockchain = () => {
     ],
   };
   return (
-    <div className=" blockchain overflow-x-clip  md:py-10 py-5 lg:py-20 relative  " id="blockchain">
+    <div
+      className=" blockchain overflow-x-clip  md:py-10 py-5 lg:py-20 relative  "
+      id="blockchain"
+    >
       <div className="max-w-[1140px] mx-auto relative px-3">
         <h2
           className=" text-[#02CDCF] text-center md:text-[40px] sm:text-4xl text-3xl md:leading-[50.4px] font-recharge mb-4 font-bold"
