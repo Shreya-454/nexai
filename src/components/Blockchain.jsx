@@ -7,7 +7,6 @@ const mycard = [
   {
     num: 1,
     text: "Security and Privacy",
-    class: "!pb-[145px]",
     aos:"fade-down"
   },
   {
