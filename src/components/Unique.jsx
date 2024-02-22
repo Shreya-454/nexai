@@ -13,7 +13,7 @@ const Unique = () => {
         </p>
         <div className="flex flex-wrap flex-row -mx-3 h-[496px] lg:pb-20 md:pb-10 pb-5 overflow-y-scroll">
           <div className="md:w-1/2 w-full  max-lg:flex max-lg:flex-col max-lg:items-center px-3">
-            <div className="max-w-[364px] bg-white w-full pt-[30px] group duration-500 px-6 rounded-2xl md:mb-[152px] mb-10 hover:shadow-[2px_4px_20px_0px_#02CDCF99]">
+            <div className="max-w-[364px] bg-white w-full pt-[30px] group duration-500 px-6 rounded-2xl md:mb-[152px] mb-10 hover:shadow-[2px_4px_20px_0px_#02CDCF]">
               <Clock1 />
               <h4 className=" font-recharge text-[#0B0A0A] md:text-xl duration-500 group-hover:text-[#02CDCF]  sm:text-lg text-base md:leading-[32px] font-bold mt-[30px] pb-2.5">
                 Remote Access and File Management
@@ -27,7 +27,7 @@ const Unique = () => {
                 home.
               </p>
             </div>
-            <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl hover:shadow-[2px_4px_20px_0px_#02CDCF99] group">
+            <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl hover:shadow-[2px_4px_20px_0px_#02CDCF] group">
               <Msg />
               <h4 className=" font-recharge text-[#0B0A0A] md:text-xl sm:text-lg text-base group-hover:text-[#02CDCF] duration-500 md:leading-[32px]  font-bold mt-[30px] pb-2.5">
                 Autonomous and Natural Language Communication
@@ -40,7 +40,7 @@ const Unique = () => {
             </div>
           </div>
           <div className="md:w-1/2 w-full px-3 md:pt-[300px] pt-10 flex flex-col lg:items-end items-center">
-            <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl md:mb-[152px] mb-10 hover:shadow-[2px_4px_20px_0px_#02CDCF99] group">
+            <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl md:mb-[152px] mb-10 hover:shadow-[2px_4px_20px_0px_#02CDCF] group">
               <Clock2 />
               <h4 className=" font-recharge text-[#0B0A0A] md:text-xl sm:text-lg group-hover:text-[#02CDCF] duration-500 text-base md:leading-[32px]  font-bold mt-[30px] pb-2.5">
                 Real-time Home Monitoring
@@ -53,7 +53,7 @@ const Unique = () => {
                 call with Nexai, and request access to your computer.{" "}
               </p>
             </div>
-            <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl hover:shadow-[2px_4px_20px_0px_#02CDCF99] group">
+            <div className="max-w-[364px] bg-white w-full pt-[30px] px-6 rounded-2xl hover:shadow-[2px_4px_20px_0px_#02CDCF] group">
               <Wire />
               <h4 className=" font-recharge text-[#0B0A0A] md:text-xl sm:text-lg group-hover:text-[#02CDCF] duration-500 text-base md:leading-[32px]  font-bold mt-[30px] pb-2.5">
                 Intelligent Contextual Awareness
